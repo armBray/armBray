@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi everyone 👋
+
+I'm a robotic developer from Italy, who loves everything that is programmable, and is currently working at his own little project [autonomousApp](https://github.com/armBray/autonomousApp).
+I mainly code in ROS, which requires good knowledge of C++ and Python, but I always challenge myself by integrating my knowledge with new developement skills such as Html, css, Javascript, Typescript, React, Bootstrap and SQL.
 
 <!--
 **armBray/armBray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
