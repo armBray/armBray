@@ -7,7 +7,7 @@ My name is armBray and I'm a Ros Developer
 I'm a robotic developer, who loves everything that is programmable and connected with the nature. I mainly code in ROS, which requires good knowledge of C++ and Python, but I always challenge myself by integrating my knowledge with new developement skills such as Html, css, Javascript, Typescript, React, Bootstrap and SQL.
 
 * 🌍  I'm based in Italy
-* 🚀  I'm currently working on [autonomousApp](http://github.com/armBray/autonomousApp)
+* 🚀  I'm currently working on my project [autonomousApp](http://github.com/armBray/autonomousApp)
 * 🧠  I'm learning Solidity, the Ethereum blockchain language
 
 ## Skills
