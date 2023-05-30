@@ -1,9 +1,7 @@
-### Hi everyone 👋
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is armBray
+Hi everyone ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===============================================================================================================================
 
-Ros Developer
+My name is armBray and I'm a Ros Developer
 -------------
 
 I'm a robotic developer, who loves everything that is programmable and connected with the nature. I mainly code in ROS, which requires good knowledge of C++ and Python, but I always challenge myself by integrating my knowledge with new developement skills such as Html, css, Javascript, Typescript, React, Bootstrap and SQL.
