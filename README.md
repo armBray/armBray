@@ -9,7 +9,7 @@ I'm a robotic developer, who loves everything that is programmable and connected
 * 🌍  I'm based in Italy
 * 🚀  I'm currently working on my project [autonomousApp](http://github.com/armBray/autonomousApp)
 * 🧠  I'm learning Solidity, the Ethereum blockchain language
-* <a href="https://www.linkedin.com/in/armando-amer%C3%AC/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="16" height="16" /></a>  LinkedIn page
+* <a href="https://www.linkedin.com/in/armando-amer%C3%AC/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="16" height="16" /></a>    LinkedIn page
 
 ## Skills
 
