@@ -9,7 +9,7 @@ I'm a robotic developer, who loves everything that is programmable and connected
 * 🌍  I'm based in Italy
 * 🚀  I'm currently working on my project [autonomousApp](http://github.com/armBray/autonomousApp)
 * 🧠  I'm learning Solidity, the Ethereum blockchain language
-* <a href="https://www.linkedin.com/in/armando-amer%C3%AC/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="16" height="16" /></a>       &nbsp; LinkedIn page
+* <a href="https://www.linkedin.com/in/armando-amer%C3%AC/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="16" height="16" />       &nbsp; LinkedIn page</a>
 
 ## Skills
 
@@ -39,11 +39,6 @@ I'm a robotic developer, who loves everything that is programmable and connected
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/armBray" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/armando-amer%C3%AC/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 <!--
 **armBray/armBray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
